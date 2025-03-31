@@ -1,4 +1,4 @@
-package com.bridgelabz;
+package com.bridgelabz.filehandling;
 
 import java.io.*;
 import java.util.Scanner;
