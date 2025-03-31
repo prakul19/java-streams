@@ -1,0 +1,6 @@
+Hello this is an input file.
+file is here.
+just random words.
+I don't know what to write anymore.
+I think this is enough.
+now let's check if the code is working or not.
