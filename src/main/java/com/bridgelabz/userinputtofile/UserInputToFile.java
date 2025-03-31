@@ -1,4 +1,4 @@
-package userinputtofile;
+package com.bridgelabz.userinputtofile;
 
 import java.io.*;
 
